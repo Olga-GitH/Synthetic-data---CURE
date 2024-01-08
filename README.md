@@ -88,3 +88,7 @@ Synthetic data for big data 2D/3D/large dimensions and the CURE clustering metho
 Пример реализации и работы с алгоритмом кластеризации CURE можно найти в:
  - _About_CURE_implementation.ipynb
 
+
+
+**Данные наработки были интегрированы в проект по методам кластеризации в директорию DatasetsGenerators:**
+https://github.com/MineevS/DMM_ClusteringSystem
