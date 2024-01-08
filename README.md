@@ -1,7 +1,7 @@
 # Synthetic data and CURE clustering
 Synthetic data for big data 2D/3D/large dimensions and the CURE clustering method
 
-@Author Meshkova O.V. [larchenko.o.v@edu.mirea.ru]
+@Author Meshkova O.V. 
 
 В данном репозитории представлены как стандартные методы генерации синтетических данных для кластеризации и их визуализация, так и новые разработанные методы.
 Язык - Python.
